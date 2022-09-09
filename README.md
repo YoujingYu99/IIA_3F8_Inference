@@ -4,10 +4,10 @@ This project is a short lab for the Cambridge Engineering IIA course 3F8 - Infer
 
 Example results for the classification, training and testing are shown below.
 ## Classification:
-![alt text](https://github.com/YoujingYu99/IIA_3F8_Inference/blob/main/plots/classification.png?raw=true)
+![alt text](https://github.com/YoujingYu99/IIA_3F8_Inference/blob/master/plots/classification.png?raw=true)
 
 ## Training
-![alt text](https://github.com/YoujingYu99/IIA_3F8_Inference/blob/main/plots/training.png?raw=true)
+![alt text](https://github.com/YoujingYu99/IIA_3F8_Inference/blob/master/plots/training.png?raw=true)
 
 ## Testing
-![alt text](https://github.com/YoujingYu99/IIA_3F8_Inference/blob/main/plots/testing.png?raw=true)
+![alt text](https://github.com/YoujingYu99/IIA_3F8_Inference/blob/master/plots/testing.png?raw=true)
