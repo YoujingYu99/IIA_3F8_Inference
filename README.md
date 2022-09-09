@@ -7,7 +7,7 @@ Example results for the classification, training and testing are shown below.
 ![alt text](https://github.com/YoujingYu99/IIA_3F8_Inference/blob/master/plots/classification.png?raw=true)
 
 ## Training
-![alt text](https://github.com/YoujingYu99/IIA_3F8_Inference/blob/master/plots/training.png?raw=true)
+![alt text](https://github.com/YoujingYu99/IIA_3F8_Inference/blob/master/plots/train.png?raw=true)
 
 ## Testing
-![alt text](https://github.com/YoujingYu99/IIA_3F8_Inference/blob/master/plots/testing.png?raw=true)
+![alt text](https://github.com/YoujingYu99/IIA_3F8_Inference/blob/master/plots/test.png?raw=true)
